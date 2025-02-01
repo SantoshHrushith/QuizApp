@@ -104,7 +104,7 @@ const Quiz = () => {
 
     setTimeout(() => {
       handleNextQuestion();
-    }, 2000); // 2 minutes in milliseconds
+    }, 5000); // 5sec in milliseconds
 
   };
 
