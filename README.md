@@ -16,6 +16,13 @@ This project is a detailed solution quiz application that provides users with a 
 
 * Frontend: React, React Router ,React Icons
 
+## Video Walkthrough
+
+Link:https://drive.google.com/file/d/1YGacJ8QL40oM-2kzlbWIBIHbVEBw0YW9/view?usp=sharing
+
+## Deployed Link
+Link:https://quiz-app-orcin-six.vercel.app/
+
 ## Screenshots
 
 **Home Page**
@@ -35,9 +42,6 @@ This project is a detailed solution quiz application that provides users with a 
 
 <img src="screenshots/Screenshot 2025-02-02 011218.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 010913.png" width="60%" />
 
-## Video Walkthrough
-
-Link:https://drive.google.com/file/d/1YGacJ8QL40oM-2kzlbWIBIHbVEBw0YW9/view?usp=sharing
 
 ## Setup Instructions
 
