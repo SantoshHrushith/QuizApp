@@ -1,0 +1,32 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 0px; /* Increase padding for a larger navbar */
+    width: 100%;
+    box-shadow: var(--box-shadow);
+    background-color: var(--navbar-bg-color);
+    color: var(--navbar-text-color);
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+    font-size: 1.5rem; /* Increase font size */
+  }
+  
+
+  .navbar-brand {
+    margin-left: 20px;
+    font-size: 2.2rem;
+    font-weight: bold;
+  }
+  
+  .theme-toggle {
+    margin-right: 20px;
+    cursor: pointer;
+    color: var(--navbar-text-color);
+    transition: color 0.3s ease, transform 0.3s ease;
+  }
+  
+  .theme-toggle:hover {
+    color: var(--button-hover-bg-color);
+    transform: rotate(20deg);
+  }
+  

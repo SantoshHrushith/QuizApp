@@ -1,0 +1,139 @@
+.results-container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 20px;
+    text-align: center;
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    border-radius: 10px;
+    box-shadow: var(--box-shadow);
+    border-color: white;
+    border: var(--border)
+}
+
+.solution {
+    margin: 10px;
+    font-size: 1.2rem;
+    padding: 15px 30px;
+    cursor: pointer;
+    border: solid 2px #2d623d;
+    border-radius: 20px;
+    background-color: #b7e2c7;
+    color: #2d623d;
+    margin-left:0;
+}
+
+img{
+    width:25%;
+}
+
+
+.results-summary {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 20px;
+    gap: 20px;
+}
+
+.results-summary p {
+    font-size: 1.2rem;
+    margin: 0;
+}
+
+.cont{
+    background-color: #18888C;
+    width: 25%;
+    padding: 15px 30px;
+    border-radius: 20px;
+    border-style: none;
+    color: white;
+    font-size: 1.2rem;
+    cursor: pointer;
+    margin-left: 20px;
+    text-align: center;
+
+}
+
+.accuracy,
+.score,
+.correct-answers {
+    width: 120px;
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.accuracy {
+    position:relative;
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(0deg, #d18c3d, #dfa564, #f3a683);
+    color: white;
+}
+
+.score {
+    position: relative;
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(0deg, #2aa89f, #3dd1ca, #66e8df);
+    color: white;
+}
+.score .icon-container,
+.correct-answers .icon-container,
+.accuracy .icon-container {
+    width: 50px; /* Adjust size as needed */
+    height: 50px; /* Make sure it's a square */ /* Thick border */
+    border-radius: 50%; /* Make it a circle */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: -25px;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #ffffff; /* Background color inside the circle */
+}
+
+.score .icon-container{
+    border: 4px solid #18888C;
+}
+.correct-answers .icon-container{
+    border: 4px solid #73289b;
+}
+.accuracy .icon-container{
+    border: 4px solid #d18c3d;
+}
+
+.score .icon {
+    font-size: 2.5rem; /* Adjust size for the icon inside the circle */
+    color: #18888C; /* Icon color */
+}
+.correct-answers .icon {
+    font-size: 2.5rem; /* Adjust size for the icon inside the circle */
+    color: #73289b; /* Icon color */
+}
+
+.accuracy .icon {
+    font-size: 2rem; /* Adjust size for the icon inside the circle */
+    color: #d18c3d; /* Icon color */
+}
+
+.score p ,.accuracy p, .correct-answers p {
+    margin-top: 30px; /* Adjust margin to ensure text doesn't overlap with the circle */
+    font-size: 1.2rem;
+}
+
+.score p:first-child {
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.correct-answers {
+    position:relative;
+    padding: 10px;
+    border-radius: 5px;
+    background: linear-gradient(0deg, #73289b, #9b3dd1, #bb6ee8);
+    color: white;
+}

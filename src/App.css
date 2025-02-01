@@ -1,0 +1,48 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'nunito','Poppins';}
+
+a,p{
+    font-family: 'urbanist','nuninto','Poppins', sans-serif;
+}
+/* Light Theme */
+:root[data-theme='light'] {
+  --navbar-bg-color: #ffffff;
+  --navbar-text-color: #333;
+  --bg-color: #f8f8f8;
+  --option-text-color:w#000000;
+  --border-color:none;
+  --border:none;
+  --option-hover:#e5e4e4;
+  --button-bg-color: #4c7aafd1;
+  --button-text-color: white;
+  --button-hover-bg-color: #949894bd;
+  --background-color: #f9f9f9;
+  --box-shadow: 0 4px 20px rgba(0, 0, 0, 0.23);
+  --text-color: #000000;
+  --app-bg-color: #ffffff;
+  --app-text-color: #000000;
+}
+
+/* Dark Theme */
+:root[data-theme='dark'] {
+  --navbar-bg-color: #000000;
+  --navbar-text-color: #f9f9f9;
+  --bg-color: #131313;
+  --option-text-color:black;
+  --border-color:white;
+  --border:solid 2px;
+  --option-hover:#b3b3b3e1;
+  --button-bg-color: #62a5c6;
+  --button-text-color: white;
+  --button-hover-bg-color: #666;
+  --background-color: #121212;
+  --box-shadow: 0 4px 20px rgba(255, 255, 255, 0.315);
+  --text-color: #ffffff;
+  --app-bg-color: #121212;
+  --app-text-color: #f9f9f9;
+}
+
+body {
+  background-color: var(--app-bg-color);
+  color: var(--app-text-color);
+}
