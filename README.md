@@ -9,8 +9,8 @@ This project is a detailed solution quiz application that provides users with a 
 * Interactive quiz experience with detailed explanations.
 * Displays correct and incorrect answers with visual cues.
 * Real-time timer for quizzes.
-* Score breakdown with a speedometer-style display.
-* Navigation to home after quiz completion.
+* Implemented Gamification feature.
+* User Friendly UI Experience 
 
 ## Tech Stack
 
@@ -19,35 +19,42 @@ This project is a detailed solution quiz application that provides users with a 
 ## Screenshots
 
 **Home Page**
-![alt text](<screenshots/Screenshot 2025-02-02 010022.png>)
-
-![alt text](<screenshots/Screenshot 2025-02-02 005518.png>)
+<br>
+<img src="screenshots/Screenshot 2025-02-02 010022.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 005518.png" width="60%" />
 
 
 **Quiz Question View**
 
-![alt text](<screenshots/Screenshot 2025-02-02 005610.png>)
-
-![alt text](<screenshots/Screenshot 2025-02-02 005535.png>)
+<img src="screenshots/Screenshot 2025-02-02 005610.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 005535.png" width="60%" />
 
 **Result View**
-![alt text](<screenshots/Screenshot 2025-02-02 005639.png>)
+
+<img src="screenshots/Screenshot 2025-02-02 005639.png" width="60%" />
 
 **Detailed Solution View**
-![alt text](<screenshots/Screenshot 2025-02-02 011218.png>)
 
-![alt text](<screenshots/Screenshot 2025-02-02 010913.png>)
+<img src="screenshots/Screenshot 2025-02-02 011218.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 010913.png" width="60%" />
 
 ## Video Walkthrough
 
-Link:
+Link:https://drive.google.com/file/d/1YGacJ8QL40oM-2kzlbWIBIHbVEBw0YW9/view?usp=sharing
 
 ## Setup Instructions
 
 1. **Clone the Repository**
-
 ```bash
-git clone [https://github.com/yourusername/project-name.git](https://github.com/yourusername/project-name.git)
-cd project-name 
+git clone https://github.com/SantoshHrushith/QuizApp.git
+cd QuizApp
+``` 
+2. **Install Dependencies**
+```bash
+npm install
+```   
+3. **Start the Application**
+```bash
+npm start
+```
+
+
 
 
