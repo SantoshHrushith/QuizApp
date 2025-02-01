@@ -20,26 +20,18 @@ This project is a detailed solution quiz application that provides users with a 
 
 **Home Page**
 <br>
-<img src="screenshots/Screenshot 2025-02-02 010022.png" width=60% />
-![alt text](<screenshots/Screenshot 2025-02-02 010022.png>)
-
-
-![alt text](<screenshots/Screenshot 2025-02-02 005518.png>)
+<img src="screenshots/Screenshot 2025-02-02 010022.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 005518.png" width="60%" />
 
 
 **Quiz Question View**
 
-![alt text](<screenshots/Screenshot 2025-02-02 005610.png>)
-
-![alt text](<screenshots/Screenshot 2025-02-02 005535.png>)
+<img src="screenshots/Screenshot 2025-02-02 005610.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 005535.png" width="60%" />
 
 **Result View**
-![alt text](<screenshots/Screenshot 2025-02-02 005639.png>)
+<img src="screenshots/Screenshot 2025-02-02 005639.png" width="60%" />
 
 **Detailed Solution View**
-![alt text](<screenshots/Screenshot 2025-02-02 011218.png>)
-
-![alt text](<screenshots/Screenshot 2025-02-02 010913.png>)
+<img src="screenshots/Screenshot 2025-02-02 011218.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 010913.png" width="60%" />
 
 ## Video Walkthrough
 
