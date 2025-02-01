@@ -7,7 +7,7 @@
     align-items: center;
 }
 .detailed-solution-container {
-    max-width: 900px;
+    width: 75%;
     margin: 30px auto;
     padding: 20px;
     text-align: center;
