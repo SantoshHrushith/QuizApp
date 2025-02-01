@@ -28,9 +28,11 @@ This project is a detailed solution quiz application that provides users with a 
 <img src="screenshots/Screenshot 2025-02-02 005610.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 005535.png" width="60%" />
 
 **Result View**
+
 <img src="screenshots/Screenshot 2025-02-02 005639.png" width="60%" />
 
 **Detailed Solution View**
+
 <img src="screenshots/Screenshot 2025-02-02 011218.png" width="60%" /> <img src="screenshots/Screenshot 2025-02-02 010913.png" width="60%" />
 
 ## Video Walkthrough
