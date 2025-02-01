@@ -19,28 +19,28 @@ This project is a detailed solution quiz application that provides users with a 
 ## Screenshots
 
 **Home Page**
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 010022.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 010022.png>)
 
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 005518.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 005518.png>)
 
 
 **Quiz Question View**
 
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 005610.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 005610.png>)
 
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 005535.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 005535.png>)
 
 **Result View**
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 005639.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 005639.png>)
 
 **Detailed Solution View**
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 011218.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 011218.png>)
 
-![alt text](<quiz/public/screenshots/Screenshot 2025-02-02 010913.png>)
+![alt text](<screenshots/Screenshot 2025-02-02 010913.png>)
 
 ## Video Walkthrough
 
-Watch the app in action: [Insert Video Link Here]
+Link:
 
 ## Setup Instructions
 
@@ -48,4 +48,6 @@ Watch the app in action: [Insert Video Link Here]
 
 ```bash
 git clone [https://github.com/yourusername/project-name.git](https://github.com/yourusername/project-name.git)
-cd project-name
+cd project-name 
+
+
