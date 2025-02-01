@@ -20,7 +20,7 @@ This project is a detailed solution quiz application that provides users with a 
 
 **Home Page**
 <br>
-<img src="screenshots/Screenshot 2025-02-02 010022.png" width=40% />
+<img src="screenshots/Screenshot 2025-02-02 010022.png" width=60% />
 ![alt text](<screenshots/Screenshot 2025-02-02 010022.png>)
 
 
