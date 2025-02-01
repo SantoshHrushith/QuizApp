@@ -45,9 +45,19 @@ Link:
 ## Setup Instructions
 
 1. **Clone the Repository**
-
 ```bash
-git clone [https://github.com/yourusername/project-name.git](https://github.com/yourusername/project-name.git)
-cd project-name 
+git clone https://github.com/SantoshHrushith/QuizApp.git
+cd QuizApp
+``` 
+2. **Install Dependencies**
+```bash
+npm install
+```   
+3. **Start the Application**
+```bash
+npm start
+```
+
+
 
 
