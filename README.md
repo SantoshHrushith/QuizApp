@@ -9,8 +9,8 @@ This project is a detailed solution quiz application that provides users with a 
 * Interactive quiz experience with detailed explanations.
 * Displays correct and incorrect answers with visual cues.
 * Real-time timer for quizzes.
-* Score breakdown with a speedometer-style display.
-* Navigation to home after quiz completion.
+* Implemented Gamification feature.
+* User Friendly UI Experience 
 
 ## Tech Stack
 
